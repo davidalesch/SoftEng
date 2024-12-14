@@ -5,7 +5,7 @@ import "./globals.css";
 import App from "./App";
 import TransferPage from "./pages/TransferPage";
 import DashboardPage from "./pages/DashboardPage";
-import AccountsPage from "./pages/AccountsPage";
+import AccountsPage from "./pages/AccountTopUp";
 import SettingsPage from "./pages/SettingsPage";
 import { Toaster } from "./components/ui/toaster";
 import WelcomePage from "./pages/WelcomePage";
